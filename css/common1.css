@@ -1,0 +1,730 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body,html{
+    font-family: "Microsoft Yahei", Lato, "Helvetica Neue", Arial, Helvetica, sans-serif;width: 100%;height: 100%;
+}
+.swiper-container {
+    width: 100%;
+    height: 100%;
+}
+.swiper-container .swiper-slide .slide1 .slide12 .slide3 .slide4 .slide5 .slide6 {
+    width: 100%;
+    height: 100%;
+}
+.slide1 .page1{
+   background: #000000;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    display: block;
+}
+.slide1 .cmp-image{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+.slide1 .cmp-image .cmp-inner{
+    width: 100%;
+    height: 83%;
+    border-radius: 0px;
+    border-width: 0px;
+    border-style: solid;
+    border-color: transparent;
+    opacity: 0.9;
+}
+.cmp-image1{
+    position: absolute;
+    left: 22%;
+    top: 5%;
+    line-height: 0px;
+}
+.cmp-image1 .cmp-inner1{
+    width: 53%;
+    height: 16%;
+    border-radius: 0px;
+    border-width: 0px;
+    border-style: solid;
+    border-color: transparent;
+    opacity: 1;
+    word-break: break-all;
+}
+.page1 .cmp-text1{
+    width: 62.5%;
+    font-size: 19px;
+    line-height: 4%;
+    font-family: "微软雅黑";
+    color: rgb(255, 255, 255);
+    overflow: hidden;
+    border-width: 0px;
+    height: auto;
+    opacity: 0.400000005960465;
+    font-weight: 400;
+    text-align: start;
+    word-wrap: break-word;
+    word-break: break-all;
+    display: block;
+
+}
+
+.page2{
+    background-color: rgb(0, 0, 0);
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    display: block;
+}
+.page2 .cmp-image{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height:52% ;
+}
+.page2.cmp-image .cmp-inner {
+    width: 100%;
+    height: 52%;
+    border-radius: 0px;
+    border-width: 0px;
+    border-style: solid;
+    border-color: transparent;
+    opacity: 1;
+    word-break: break-all;
+}
+.page2 .cmp-image img{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+.page2 .cmp-image2{
+    position: absolute;
+    left: 44%;
+    top: 48%;
+    height: 8%;
+    width: 12.5%;
+    overflow: hidden;
+    line-height: 0;
+}
+.page2 .cmp-image2 .cmp-inner2{
+    width: 100%;
+    height:100%;
+    border-radius: 0px;
+    border-width: 0px;
+    overflow: hidden;
+    border-style: solid;
+    border-color: transparent;
+    opacity: 1;
+    word-break: break-all;
+}
+.page2 .cmp-image3{
+    position: absolute;
+    left: 48%;
+    top: 51%;
+    line-height: 0;
+}
+.page2 .cmp-image3 .cmp-inner3{
+    width: 100%;
+    height: 100%;
+    border-radius: 0px;
+    border-width: 0px;
+    border-style: solid;
+    border-color: transparent;
+    opacity: 1;
+    word-break: break-all;
+}
+.page2 .cmp-image4{
+    position: absolute;
+    left: 3%;
+    top: 2%;
+    width: 25%;
+    height: 9%;
+    overflow: hidden;
+}
+.page2 .cmp-image4 .cmp-inner4{
+    width: 100%;
+    height: 100%;
+    border-radius: 0px;
+    overflow: hidden;
+    border-width: 0px;
+    border-style: solid;
+    border-color: transparent;
+    opacity: 1;
+    word-break: break-all;
+}
+.page2 .cmp-text1{
+    width: 56%;
+    font-size: 16px;
+    line-height: 4%;
+    color:#ffffff;
+    overflow: hidden;
+    border-width: 0px;
+    height: auto;
+    font-weight: 400;
+    text-align: start;
+    word-break: break-all;
+    word-wrap: break-word;
+}
+.page2 .cmp-text2{
+    width: 50%;
+    font-size: 16px;
+    line-height: 4%;
+    color: rgb(255, 255, 255);
+    overflow: hidden;
+    border-width: 0px;
+    height: auto;
+    font-weight: 400;
+    text-align: start;
+    word-wrap: break-word;
+    word-break: break-all;
+}
+.page2 .cmp-text2 div{
+    position: absolute;
+    left: 29%;
+    top: 65%;
+}
+.page2 .cmp-text3{
+    width: 50%;
+    font-size: 16px;
+    line-height: 4%;
+    color: rgb(255, 255, 255);
+    overflow: hidden;
+    border-width: 0px;
+    height: auto;
+    font-weight: 400;
+    text-align: start;
+    word-wrap: break-word;
+    word-break: break-all;
+}
+.page2 .cmp-text3 div{
+    position: absolute;
+    left: 29%;
+    top: 72%;
+}
+.page2 .cmp-text4{
+    width: 50%;
+    font-size: 16px;
+    line-height: 4%;
+    color: rgb(255, 255, 255);
+    overflow: hidden;
+    border-width: 0px;
+    height: auto;
+    font-weight: 400;
+    text-align: start;
+    word-wrap: break-word;
+    word-break: break-all;
+}
+.page2 .cmp-text4 div{
+    position: absolute;
+    left: 25%;
+    top:79%;
+}
+.page3{
+    background-color: rgb(0, 0, 0);
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    display: block;
+    background-size: cover;
+    background-position: center center;
+    transform-style: preserve-3d;
+}
+.page3 .cmp-image1{
+    position: absolute;
+    left: -0.2%;
+    top: 33%;
+    line-height: 0;
+}
+.page3 .cmp-image1 .cmp-inner1{
+    width: 100%;
+    height: 100%;
+    border-radius: 0px;
+    border-width: 0px;
+    border-style: solid;
+    border-color: transparent;
+    opacity: 0.99899697303772;
+    word-break: break-all;
+}
+.page3 .cmp-image2{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    line-height: 0;
+}
+.page3 .cmp-image2 .cmp-inner2{
+    width: 100%;
+    height: 100%;
+    border-radius: 0px;
+    border-width: 0px;
+    border-style: solid;
+    border-color: transparent;
+    opacity: 0.5;
+    word-break: break-all;
+}
+.page3 .cmp-image3{
+    position: absolute;
+    left: 5%;
+    top: 3%;
+    line-height: 0;
+    width: 25%;
+    height: 9%;
+    overflow: hidden;
+}
+.page3 .cmp-image3 .cmp-inner3{
+    width: 100%;
+    height: 100%;
+    border-radius: 0px;
+    border-width: 0px;
+    border-style: solid;
+    overflow: hidden;
+    border-color: transparent;
+    opacity: 0.600000023841858;
+    word-break: break-all;
+}
+.page3 .cmp-text1{
+    width: 16%;
+    font-size: 23px;
+    line-height: 100%;
+    font-family:" 微软雅黑";
+    color: rgb(255, 255, 255);
+    overflow: hidden;
+    border-width: 0px;
+    height: auto;
+    font-weight: bold;
+    text-align: start;
+    word-wrap: break-word;
+    word-break: break-all;
+}
+.page3 .cmp-text1 div{
+    position: absolute;
+    left: 15%;
+    top: 22%;
+}
+.page3 .cmp-text2{
+    width: 68.75%;
+    font-size: 16px;
+    line-height: 100%;
+    color: rgb(255, 255, 255);
+    overflow: hidden;
+    border-width: 0px;
+    height: auto;
+    font-weight: 400;
+    text-align: start;
+    word-wrap: break-word;
+    word-break: break-all;
+}
+.page3 .cmp-text2 div{
+    position: absolute;
+    left: 14%;
+    top: 29.2%;
+    width: 68.75%;
+    height: 11%;
+}
+.page3 .cmp-text3{
+    width: 62.5%;
+    font-size: 19px;
+    line-height: 100%;
+    color: rgb(255, 255, 255);
+    overflow: hidden;
+    border-width: 0px;
+    height: auto;
+    font-weight: bold;
+    text-align: start;
+    word-wrap: break-word;
+    word-break: break-all;
+}
+.page3 .cmp-text3 div{
+    position: absolute;
+    left: 31%;   /*99*/
+    top: 22%;   /*113*/
+}
+.page3 .cmp-image4{
+    position: absolute;
+    left: 62.5%;
+    top: 0%;
+}
+.page3 .cmp-image4 .cmp-inner4{
+    width: 100%;
+    height: 100%;
+    border-radius: 0px;
+    border-width: 0px;
+    border-style: solid;
+    border-color: transparent;
+    opacity: 0.5;
+    word-break: break-all;
+}
+.page4{
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    background: url("../img/11.png");
+    display: block;
+    background-size: cover;
+    background-position: center center;
+    transform-style: preserve-3d;
+}
+.page4 .cmp-image1{
+    position: absolute;
+    left:4%;
+    top: 3%;
+    width: 25%;
+    height: 9%;
+    line-height: 0;
+    overflow: hidden;
+}
+.page4 .cmp-image1 .cmp-inner1{
+    width: 100%;
+    height: 100%;
+    border-radius: 0px;
+    border-width: 0px;
+    overflow: hidden;
+    border-style: solid;
+    border-color: transparent;
+    opacity: 1;
+    word-break: break-all;
+}
+.page4 .cmp-image2 {
+    position: absolute;
+    left: 20%;
+    top: 56%;
+    width:62.5%;
+    height: 22%;
+    overflow: hidden;
+    line-height: 0;
+}
+.page4 .cmp-image2 .cmp-inner2{
+    width:100%;
+    height: 100%;
+    overflow: hidden;
+    border-radius: 0px;
+    border-width: 0px;
+    border-style: solid;
+    border-color: transparent;
+    opacity: 1;
+    word-break: break-all;
+}
+.page4 .cmp-text1{
+    width: 50%;
+    font-size: 15px;
+    line-height: 100%;
+    color: rgb(255, 255, 255);
+    overflow: hidden;
+    border-width: 0px;
+    height: auto;
+    font-weight: 400;
+    text-align: start;
+    word-wrap: break-word;
+    word-break: break-all;
+    display: block;
+}
+.page4 .cmp-text1 div{
+    position: absolute;
+    left:6%;
+    top: 54%;
+}
+.page4 .cmp-text2{
+    width: 50%;
+    font-size: 15px;
+    line-height: 100%;
+    color: rgb(255, 255, 255);
+    overflow: hidden;
+    border-width: 0px;
+    height: auto;
+    font-weight: 400;
+    text-align: start;
+    word-wrap: break-word;
+    word-break: break-all;
+    display: block;
+}
+.page4 .cmp-text2 div{
+    position: absolute;
+    left: 24%;
+    top: 71%;
+}
+.page4 .cmp-text3{
+    width: 25%;
+    font-size: 15px;
+    line-height: 100%;
+    color: rgb(255, 255, 255);
+    overflow: hidden;
+    border-width: 0px;
+    height: auto;
+    font-weight: 400;
+    text-align: start;
+    word-wrap: break-word;
+    word-break: break-all;
+    display: block;
+}
+.page4 .cmp-text3 div{
+    position: absolute;
+    left: 66%;
+    top: 48%;
+}
+.page4 .cmp-text4{
+    width: 31%;
+    font-size: 15px;
+    line-height:100%;
+    color: rgb(255, 255, 255);
+    overflow: hidden;
+    border-width: 0px;
+    height: auto;
+    font-weight: 400;
+    text-align: start;
+    word-wrap: break-word;
+    word-break: break-all;
+    display: block;
+}
+.page4 .cmp-text4 div{
+    position: absolute;
+    left: 66%;
+    top: 79%;
+}
+.page5{
+    background-color: rgb(0, 0, 0);
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    display: block;
+    background-size: cover;
+    background-position: center center;
+    transform-style: preserve-3d;
+}
+.page5 .cmp-image1{
+    position: absolute;
+    left: 0%;
+    top: 2%;
+    width: 100%;
+    height: 67%;
+    overflow: hidden;
+    line-height: 0;
+}
+.page5 .cmp-image1 .cmp-inner1{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    border-radius: 0%;
+    border-width: 0px;
+    border-style: solid;
+    border-color: transparent;
+    opacity: 1;
+    word-break: break-all;
+}
+.page5 .cmp-image2{
+    position: absolute;
+    left: 5%;
+    top: 3%;
+    width: 25%;
+    height: 9%;
+    overflow: hidden;
+    line-height: 0;
+}
+.page5 .cmp-image2 .cmp-inner2{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    border-radius: 0px;
+    border-width: 0px;
+    border-style: solid;
+    border-color: transparent;
+    opacity: 0.600000023841858;
+    word-break: break-all;
+}
+.page5 .cmp-image3{
+    position: absolute;
+    left: 46%;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    top: 63%;
+}
+.page5 .cmp-image3 .cmp-inner3{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    border-radius: 0px;
+    border-width: 0px;
+    border-style: solid;
+    border-color: transparent;
+    opacity: 1;
+    word-break: break-all;
+}
+.page5 .cmp-text1{
+    width: 68%;
+    font-size: 23px;
+    line-height: 100%;
+    color: rgb(255, 255, 255);
+    overflow: hidden;
+    border-width: 0px;
+    height: auto;
+    font-weight: bold;
+    text-align: start;
+    word-wrap: break-word;
+    word-break: break-all;
+    display: block;
+}
+.page5 .cmp-text1 div{
+    position: absolute;
+    left: 19%;
+    top: 72%;
+}
+.page5 .cmp-text2{
+    width: 68%;
+    font-size: 15px;
+    line-height: 100%;
+    color: rgb(255, 255, 255);
+    overflow: hidden;
+    border-width: 0px;
+    height: auto;
+    font-weight: 400;
+    text-align: start;
+    word-wrap: break-word;
+    word-break: break-all;
+    display: block;
+}
+.page5 .cmp-text2 div{
+    position: absolute;
+    left: 18%;
+    top: 78%;
+}
+.page6{
+    left: 0%;
+    top: 0%;
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+    display: block;
+    background-size: cover;
+    background-position: center center;
+    transform-style: preserve-3d;
+}
+.page6 .cmp-image1{
+    position: absolute;
+    left: -0.2%;
+    top: 51%;
+    width: 100%;
+    height: 49%;
+    overflow: hidden;
+    line-height: 0;
+    display: block;
+}
+.page6 .cmp-image1 .cmp-inner1{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    border-radius: 0px;
+    border-width: 0px;
+    border-style: solid;
+    border-color: transparent;
+    opacity: 1;
+    word-break: break-all;
+    line-height: 0;
+}
+.page6 .cmp-image2{
+    position: absolute;
+    left: 4%;
+    top: 3%;
+    width: 25%;
+    height: 9%;
+    overflow: hidden;
+}
+.page6 .cmp-image2 .cmp-inner2{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    border-radius: 0px;
+    border-width: 0px;
+    border-style: solid;
+    border-color: transparent;
+    opacity: 0.699999988079071;
+    word-break: break-all;
+    line-height: 0;
+}
+.page6 .cmp-text1{
+    width: 25%;
+    font-size: 23px;
+    line-height: 100%;
+    color: rgb(193, 40, 45);
+    overflow: hidden;
+    border-width: 0px;
+    height: auto;
+    font-weight: bold;
+    text-align: start;
+    word-wrap: break-word;
+    word-break: break-all;
+    display: block;
+}
+.page6 .cmp-text1 div{
+    position: absolute;
+    left: 28%;
+    top: 25%;
+}
+.page6 .cmp-text2{
+    width: 50%;
+    font-size: 18px;
+    line-height: 100%;
+    color: rgb(255, 255, 255);
+    overflow: hidden;
+    border-width: 0px;
+    height: auto;
+    font-weight: bold;
+    text-align: start;
+    word-wrap: break-word;
+    word-break: break-all;
+    display: block;
+}
+.page6 .cmp-text2 div{
+    position: absolute;
+    left: 42.5%;
+    top: 25%;
+}
+.page6 .cmp-text3{
+    width:81.25%;
+    font-size: 16px;
+    line-height: 100%;
+    color: rgb(255, 255, 255);
+    overflow: hidden;
+    border-width: 0px;
+    height: auto;
+    font-weight: bold;
+    text-align: start;
+    word-wrap: break-word;
+    word-break: break-all;
+    display: block;
+}
+.page6 .cmp-text3 div{
+    position: absolute;
+    left: 18.75%;
+    top: 33%;
+}
+.page6 .cmp-text4{
+    width:73.75%;
+    font-size: 16px;
+    line-height: 100%;
+    color: rgb(255, 255, 255);
+    overflow: hidden;
+    border-width: 0px;
+    height: auto;
+    font-weight: 400;
+    text-align: start;
+    word-wrap: break-word;
+    word-break: break-all;
+    display: block;
+}
+.page6 .cmp-text4 div{
+    position: absolute;
+    left: 17%;
+    top: 38%;
+}
